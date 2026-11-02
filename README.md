@@ -134,7 +134,23 @@ The application will open in your web browser.
 
 ## Application Screenshots
 
-Screenshots of the developed application and model evaluation results will be included in this repository.
+### Application Home Page
+![Application Home Page](ml%20front%20page.png)
+
+### No Failure Prediction
+![No Failure Prediction](no%20failure%20prediction.png)
+
+### Failure Detection
+![Failure Detection](failure%20prediction.png)
+
+### Prediction History
+![Prediction History](prediction%20history.png)
+
+### Sensor Reading History
+![Sensor Reading History](sensor%20reading%20history.png)
+
+### Model Accuracy Comparison
+![Model Accuracy Comparison](model_comparison.png)
 
 ## Live Application
 

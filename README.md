@@ -150,7 +150,7 @@ The application will open in your web browser.
 ![Sensor Reading History](sensor%20reading%20history.png)
 
 ### Model Accuracy Comparison
-![Model Accuracy Comparison](model_comparison.png)
+![Model Accuracy Comparison](model%20comparison.png)
 
 ## Live Application
 

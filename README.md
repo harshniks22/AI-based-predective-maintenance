@@ -156,7 +156,8 @@ The application will open in your web browser.
 
 **Deployment Platform:** Streamlit Community Cloud
 
-**Live Application URL:** To be added after deployment.
+**Live Application URL:** [Click here to open Predictive Maintenance AI](https://ai-based-predective-maintenance-aecqewc8cgwn5appxzrn9a8.streamlit.app/)
+
 
 ## Limitations
 

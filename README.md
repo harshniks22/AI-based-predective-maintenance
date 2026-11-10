@@ -177,3 +177,8 @@ The application will open in your web browser.
 This project demonstrates how Artificial Intelligence and Machine Learning can support predictive maintenance by identifying potential industrial machine failures using sensor data.
 
 The Random Forest model is integrated into a Streamlit application to provide an interactive machine failure prediction system.
+## Project Documentation
+
+[View Project Report (PDF)](Predictive_Maintenance_Project_Report.pdf)
+
+

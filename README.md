@@ -179,6 +179,6 @@ This project demonstrates how Artificial Intelligence and Machine Learning can s
 The Random Forest model is integrated into a Streamlit application to provide an interactive machine failure prediction system.
 ## Project Documentation
 
-[View Project Report (PDF)](Predictive_Maintenance_Project_Report.pdf)
+[View Project Report (PDF)](Predictive_Maintenance_Report.pdf)
 
 
